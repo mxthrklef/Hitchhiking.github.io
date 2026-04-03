@@ -1,5 +1,11 @@
+@font-face{
+    font-family:"bogus";
+    src: url("bogus.ttf") format("truetype");
+}
+
+
 .title {
-    color: green;
+    font-family:"bogus";
 }
 
 button{
